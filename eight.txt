@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('backgroundfish6.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+</style>
+</head>
+<body>
+
+<title>I Don't Care.</title>
+<h1 style="background-color:Gray;">Why else would he let this happen?</h1>
+
+<a href="eight.html">
+<img src="deadfish8.jpg" alt="plastic debris and a mass of dead fish" style="width:800">
+</a>
+<br>
+
+
+<p><a href="index.html">Go Back.</a></p>
